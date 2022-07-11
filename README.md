@@ -1,7 +1,5 @@
 ### Here is What I'm Working On! 👋
 
-<!--
-**realHassaneBen/realHassaneBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [@realHassaneBen](https://twitter.com/realHassaneBen)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm a human
--->
+
