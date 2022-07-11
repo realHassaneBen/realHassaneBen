@@ -1,6 +1,11 @@
+[![Coding](https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)](https://google.com)
+[![Coding](https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)](https://google.com)
+[![Coding](https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)](https://google.com)
+[![Coding](https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)](https://google.com)
+
 <h1 align="center">Hi 👋, I'm Hassane Bendaoud</h1>
 <h3 align="center">A passionate frontend and backend developer from Algeria</h3>
-<img align="right" alt="Coding with Hassane" width="400" src="https://raw.githubusercontent.com/gist/AzdineElJattari/beaef920a209a60bab82a8a1d01e5d54/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<img align="right" alt="Coding with Hassane" width="300" src="https://raw.githubusercontent.com/gist/AzdineElJattari/beaef920a209a60bab82a8a1d01e5d54/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realhassaneben&label=Profile%20views&color=0e75b6&style=flat" alt="realhassaneben" /> </p>
 
@@ -38,4 +43,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realhassaneben&show_icons=true&locale=en" alt="realhassaneben" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realhassaneben&" alt="realhassaneben" /></p>
