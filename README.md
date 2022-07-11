@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Hassane Bendaoud</h1>
+<h1 align="center">Hi 👋, I'm Hassane Bendaoud a full-time full-stack freelance developer 👨‍💻 working remotely</h1>
 <h3 align="center">A passionate frontend and backend developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realhassaneben&label=Profile%20views&color=0e75b6&style=flat" alt="realhassaneben" /> </p>
