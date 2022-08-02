@@ -1,6 +1,6 @@
 # Welcome 👋
 
-[![Coding](https://raw.githubusercontent.com/gist/AzdineElJattari/beaef920a209a60bab82a8a1d01e5d54/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)](https://twitter.com/hsn0x)
+[![Coding](https://raw.githubusercontent.com/gist/AzdineElJattari/beaef920a209a60bab82a8a1d01e5d54/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)](https://twitter.com/hsn_0x)
 
 ---
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsn0x" alt="hsn0x" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hsn0x" target="blank"><img src="https://img.shields.io/twitter/follow/hsn0x?logo=twitter&style=for-the-badge" alt="hsn0x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hsn_0x" target="blank"><img src="https://img.shields.io/twitter/follow/hsn0x?logo=twitter&style=for-the-badge" alt="hsn0x" /></a> </p>
 
 <img align="right" alt="Coding with Hassane"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
@@ -35,10 +35,10 @@
 ## Connect with me:
 <p align="left">
 <a href="https://dev.to/hsn0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hsn0x" height="30" width="40" /></a>
-<a href="https://twitter.com/hsn0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsn0x" height="30" width="40" /></a>
+<a href="https://twitter.com/hsn_0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsn0x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hsn0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsn0x" height="30" width="40" /></a>
-<a href="https://instagram.com/hsn0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsn0x" height="30" width="40" /></a>
-<a href="https://hashnode.com/hsn0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hsn0x" height="30" width="40" /></a>
+<a href="https://instagram.com/hsn_0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsn0x" height="30" width="40" /></a>
+<a href="https://hashnode.com/@hsn0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hsn0x" height="30" width="40" /></a>
 </p>
 
 ---
